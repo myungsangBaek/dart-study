@@ -1,8 +1,3 @@
-import 'asMap.dart';
-import 'fold.dart';
-import 'list.dart';
-import 'map.dart';
-
 void main() {
   // print("Hello world");
 
@@ -15,5 +10,4 @@ void main() {
   // list();
   // map();
   // fold();
-  asMap();
 }
