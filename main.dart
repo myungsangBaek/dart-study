@@ -1,15 +1,19 @@
+import 'asMap.dart';
+import 'fold.dart';
 import 'list.dart';
 import 'map.dart';
 
 void main() {
-  print("Hello world");
+  // print("Hello world");
 
-  var test = 'test';
-  print(test);
+  // var test = 'test';
+  // print(test);
 
-  var test2 = {"a", "b"};
-  print(test2);
+  // var test2 = {"a", "b"};
+  // print(test2);
 
-  list();
-  map();
+  // list();
+  // map();
+  // fold();
+  asMap();
 }
